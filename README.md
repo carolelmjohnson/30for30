@@ -9,3 +9,4 @@ your content
 Make sure you add good comments when you commit your changes
 
 # Submissions to the Repository
+  - Ben DeVore 5/13/2018
