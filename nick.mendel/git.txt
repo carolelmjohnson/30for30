@@ -1,0 +1,1 @@
+I like the git stash command for safely storing my current work and restoring the repository to the baseline until I'm ready to get back to what I was doing.

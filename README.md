@@ -12,3 +12,4 @@ Make sure you add good comments when you commit your changes
   - Ben DeVore 5/13/2018
   - Andrew Morrison 5/15/2018
   - John Owens 5/15/2018
+  - Nick Mendel 5/15/2018
