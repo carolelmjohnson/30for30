@@ -11,3 +11,4 @@ Make sure you add good comments when you commit your changes
 # Submissions to the Repository
   - Ben DeVore 5/13/2018
   - Andrew Morrison 5/15/2018
+  - John Owens 5/15/2018
