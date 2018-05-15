@@ -1,0 +1,3 @@
+I like Git because it's easy to use and can be integrated with Eclipse.
+
+What I dislike about Git is having to commit and then push, unlike in Subversion where only a commit is needed.
