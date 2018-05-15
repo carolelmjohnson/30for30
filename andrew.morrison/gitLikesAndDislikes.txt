@@ -1,0 +1,2 @@
+I like how git is spelled
+I dislike having to use command line tools. Nevermind, just found out there are actually GUI tools for git! Then, umm.... I dislike that I didn't know there were GUI tools before, because merging things command line sucks.
