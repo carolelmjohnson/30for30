@@ -1,0 +1,2 @@
+I like git for projects where many people may be modifying a project at the same time.   It is great for distributed collaboration.
+I don't like how git can be overly complex for simple operations.    Although it does support GUI plugins in Eclipse, they don't work very well compared to other CM plugins like SVN.
